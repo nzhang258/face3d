@@ -1,0 +1,9 @@
+# blendshape_num; blenshape per line; baseshape; deformations
+2
+/home/sensetime/disk/datasets/facewarehourese_model/eye_mouth/blendshape/mouth/stomata_thick.txt
+/home/sensetime/disk/datasets/facewarehourese_model/eye_mouth/blendshape/mouth/stomata_thin.txt
+/home/sensetime/disk/datasets/facewarehourese_model/eye_mouth/blendshape/mouth/mouth.txt
+3
+1 0 1.0 stomata_thick
+1 1 1.0 stomata_thin
+2 0 1.0 1 1.0 stomata_all
